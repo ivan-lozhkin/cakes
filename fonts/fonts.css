@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Gabriola.woff';
+    src: url(./Gabriola.woff);
+}
+
+@font-face {
+    font-family: 'Gabriola.woff2';
+    src: url(./Gabriola.woff2);
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium.woff';
+    src: url(./Montserrat-Medium.woff);
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium.woff';
+    src: url(./Montserrat-Medium.woff2);
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular.woff';
+    src: url(./Montserrat-Regular.woff);
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular.woff2';
+    src: url(./Montserrat-Regular.woff2);
+}
